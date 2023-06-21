@@ -20,7 +20,7 @@ margin-bottom: 1px;
 .img1 {
     width: 500px;
     align-self: center;
-    height: 250px;
+    height: 300px;
 }
 
 .button1 {
@@ -64,7 +64,11 @@ button1:active{
     
 }
 .video{
-    height: 250px;
+    height: 300px;
     border: none;
     
+}
+
+.text-description{
+width: 700px;
 }
