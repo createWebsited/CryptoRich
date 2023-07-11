@@ -2,12 +2,13 @@
 
     margin-top: 0px;
     margin-bottom: 0px;
+    text-align: center; 
 }
 
 
 .title {
 text-align: Center;
-font-family: 'Segoe UI';
+font-family: 'comic-sans';
 font-weight: 500px;
 font-size: 30px;
 margin-bottom: 1px;
