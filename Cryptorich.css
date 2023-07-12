@@ -85,6 +85,8 @@ button:active{
     text-align: center;
    font-family: Noto Sans;
     width: 400px;
+    right: 0;
+    left: 0;
     
 }
 .video{
